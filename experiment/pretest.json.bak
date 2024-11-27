@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The pressure force on a surface is given by",
+        "qid": 1,
+        "option_a": "$$ \\rho* g * A * \\bar{h} $$",
+        "option_b": "$$ \\rho * g * \\bar{h} $$",
+        "option_c": "$$ P * A $$",
+        "option_d": "$$ \\rho * g * A * h^* $$",
+        "correct_option": "a"
+    },
+    {
+        "question": "Centre of pressure is given by",
+        "qid": 2,
+        "option_a": "$$ \\frac{I_G*\\bar{h}}{(A*\\bar{h}+\\bar{h})} $$",
+        "option_b": "$$ \\frac{I_G}{A*\\bar{h}}+\\bar{h}^2 $$",
+        "option_c": "$$ \\frac{I_G}{A*\\bar{h}}+\\bar{h} $$",
+        "option_d": "$$ \\frac{I_G}{\\bar{h}}+\\bar{h} $$",
+        "correct_option": "c"
+    }
+]
