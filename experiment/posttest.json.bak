@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "The diameter of circular plate (d) is 2.6 m. Find the position of centre of pressure. Refer figure in the simulator.",
+        "qid": 1,
+        "option_a": "1.90 m",
+        "option_b": "1.75 m",
+        "option_c": "1.85 m",
+        "option_d": "2.15 m",
+        "correct_option": "c"
+    },
+    {
+        "question": "The diameter of circular plate (d) is 1.3 m. Find the position of centre of pressure. Refer figure in the simulator.",
+        "qid": 2,
+        "option_a": "0.79 m",
+        "option_b": "0.72 m",
+        "option_c": "0.75 m",
+        "option_d": "0.81 m",
+        "correct_option": "b"
+    }
+]

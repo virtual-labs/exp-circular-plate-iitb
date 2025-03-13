@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h2> AIM: To find Hydrostatic force on circular plate. </h2>
